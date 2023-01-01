@@ -1,15 +1,15 @@
 # 42-Cursus
 
-### First Ring Project:
+### First Ring:
 [Libft](https://github.com/Yahya-Giirre/Libft)
 
-### Second Ring Projects:
+### Second Ring:
 [Printf](https://github.com/Yahya-Giirre/Printf)
 
 
 [GetNextLine](https://github.com/Yahya-Giirre/GetNextLine)
 
-### Third Ring Projects:
+### Third Ring:
 [MiniTalk](https://github.com/Yahya-Giirre/Minitalk)
 
 
