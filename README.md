@@ -1,5 +1,4 @@
-# 42-Cursus
-# C programming
+# 42-Cursus - C programming
 
 ### First Ring Project:
 [Libft](https://github.com/Yahya-Giirre/Libft)
